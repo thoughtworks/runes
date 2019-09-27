@@ -29,7 +29,7 @@ U+1F644	🙄	FACE WITH ROLLING EYES
 
 Give the `runes` command one or more words, and it returns a sorted list of all Unicode characters containing those words in their names.
 
-To get started, go to the [project page](https://twgophers.github.io/runes/).
+To get started, go to the [project page](https://twgophers.github.io/runes/) (docs in Portuguese for now; will be translated to English by Oct 5, 2019).
 
 
 ## Credits
