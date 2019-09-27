@@ -1,4 +1,6 @@
-# Runas: passo a passo com TDD
+# Runes: step by step with TDD in Go
+
+>>> ***NOTE***: These pages will be translated to English by Oct 5, 2019.
 
 [Neste repositório](https://github.com/ThoughtWorksInc/runas) você pode ver o desenvolvimento passo a passo do exemplo `runas`: um utilitário em linguagem Go para localizar caracteres Unicode pelo nome.
 
