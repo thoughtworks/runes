@@ -1,10 +1,10 @@
-# Runes: baby steps with TDD
+# Runes: baby steps with TDD in Go
 
-In this repo you can follow the step-by-step development of the `runes` example: a Go command-line utility to find Unicode characters by name.
+In this repo you can follow the step-by-step development of `runes` a command-line utility to find Unicode characters by name.
 
-Each step in the development is documented explaining the Go language features used in the code. We follow the TDD _(Test Driven Design)_ method, so we code a test and then implement the functionality being tested. This makes it easier to focus on the __what__ (the interface) before we think about the __how__ (the implementation).
+Each step in is documented explaining the Go language features used in the tests and application code. We follow the TDD _(Test Driven Design)_ method, so we code a test and then implement the functionality being tested. This makes it easier to focus on the __what__ (the API) before we think about the __how__ (the implementation).
 
-You don't need to know Go to follow along. The only pre-requsite is to know programming in another language.
+You don't need to know Go to follow along. The only pre-requsite is to know programming some language.
 
 
 ## Our goal
@@ -27,9 +27,9 @@ U+1F63D	😽	KISSING CAT FACE WITH CLOSED EYES
 U+1F644	🙄	FACE WITH ROLLING EYES
 ```
 
-Give the `runes` command one or more words, and it returns a sorted list of all Unicode characters containing those words in their names.
+Give the `runes` command one or more words, and it returns a sorted list of Unicode characters containing those words in their names.
 
-To get started, go to the [project page](https://twgophers.github.io/runes/) (docs in Portuguese for now; will be translated to English by Oct 5, 2019).
+To get started, go to the [project page](https://thoughtworks.github.io/runes/) (docs in Portuguese for now; will be translated to English by Oct 5, 2019).
 
 
 ## Credits
